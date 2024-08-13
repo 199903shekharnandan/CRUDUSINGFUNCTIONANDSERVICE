@@ -1,0 +1,15 @@
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDService\obj\Debug\net6.0\CRUDService.csproj.AssemblyReference.cache
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDService\obj\Debug\net6.0\CRUDService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDService\obj\Debug\net6.0\CRUDService.AssemblyInfoInputs.cache
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDService\obj\Debug\net6.0\CRUDService.AssemblyInfo.cs
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDService\obj\Debug\net6.0\CRUDService.csproj.CoreCompileInputs.cache
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDService\bin\Debug\net6.0\CRUDService.deps.json
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDService\bin\Debug\net6.0\CRUDService.dll
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDService\bin\Debug\net6.0\CRUDService.pdb
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDService\bin\Debug\net6.0\CRUDModels.dll
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDService\bin\Debug\net6.0\CRUDModels.pdb
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDService\obj\Debug\net6.0\CRUDService.csproj.CopyComplete
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDService\obj\Debug\net6.0\CRUDService.dll
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDService\obj\Debug\net6.0\refint\CRUDService.dll
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDService\obj\Debug\net6.0\CRUDService.pdb
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDService\obj\Debug\net6.0\ref\CRUDService.dll

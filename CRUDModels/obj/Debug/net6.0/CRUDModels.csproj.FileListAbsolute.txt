@@ -1,0 +1,12 @@
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDModels\bin\Debug\net6.0\CRUDModels.deps.json
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDModels\bin\Debug\net6.0\CRUDModels.dll
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDModels\bin\Debug\net6.0\CRUDModels.pdb
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDModels\obj\Debug\net6.0\CRUDModels.csproj.AssemblyReference.cache
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDModels\obj\Debug\net6.0\CRUDModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDModels\obj\Debug\net6.0\CRUDModels.AssemblyInfoInputs.cache
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDModels\obj\Debug\net6.0\CRUDModels.AssemblyInfo.cs
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDModels\obj\Debug\net6.0\CRUDModels.csproj.CoreCompileInputs.cache
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDModels\obj\Debug\net6.0\CRUDModels.dll
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDModels\obj\Debug\net6.0\refint\CRUDModels.dll
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDModels\obj\Debug\net6.0\CRUDModels.pdb
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDModels\obj\Debug\net6.0\ref\CRUDModels.dll

@@ -1,0 +1,15 @@
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDRepository\bin\Debug\net6.0\CRUDRepository.deps.json
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDRepository\bin\Debug\net6.0\CRUDRepository.dll
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDRepository\bin\Debug\net6.0\CRUDRepository.pdb
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDRepository\bin\Debug\net6.0\CRUDModels.dll
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDRepository\bin\Debug\net6.0\CRUDModels.pdb
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDRepository\obj\Debug\net6.0\CRUDRepository.csproj.AssemblyReference.cache
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDRepository\obj\Debug\net6.0\CRUDRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDRepository\obj\Debug\net6.0\CRUDRepository.AssemblyInfoInputs.cache
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDRepository\obj\Debug\net6.0\CRUDRepository.AssemblyInfo.cs
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDRepository\obj\Debug\net6.0\CRUDRepository.csproj.CoreCompileInputs.cache
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDRepository\obj\Debug\net6.0\CRUDRepository.csproj.CopyComplete
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDRepository\obj\Debug\net6.0\CRUDRepository.dll
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDRepository\obj\Debug\net6.0\refint\CRUDRepository.dll
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDRepository\obj\Debug\net6.0\CRUDRepository.pdb
+C:\Users\shekhar.nandan\OneDrive - Acuvate Software Private Limited\Documents\CRUD IN MVC\CRUDRepository\obj\Debug\net6.0\ref\CRUDRepository.dll
